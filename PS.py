@@ -1,7 +1,7 @@
 import re
 import streamlit as st  # type: ignore
 
-st.set_page_config(page_title="Password Strength Meter By Ahmed", page_icon="🌘", layout="centered")
+st.set_page_config(page_title="Password Strength Meter By FAMIA", page_icon="🌘", layout="centered")
 
 st.title("🔒 Password Strength Meter")
 
